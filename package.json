@@ -11,7 +11,8 @@
   "dependencies": {
     "express": "^4.16.4",
     "morgan": "latest",
-    "uuid": "latest"
+    "uuid": "latest",
+    "nodemon": "latest"
   },
   "devDependencies": {
     "chai": "^4.2.0",
